@@ -1,0 +1,24 @@
+{
+  "name": "node-coin",
+  "version": "1.0.0",
+  "description": "Simple cryptocurrency using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InsomniacSabbir/node-coin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InsomniacSabbir/node-coin/issues"
+  },
+  "homepage": "https://github.com/InsomniacSabbir/node-coin#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "type": "module"
+}
